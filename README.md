@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valentinadqe
-- 👀 I’m interested in food, books, and coding.
+- 👀 I’m interested in food, books, and traveling.
 - 🌱 I’m currently learning JavaScript.
 
 <!---
